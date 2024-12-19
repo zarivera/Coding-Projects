@@ -1,0 +1,165 @@
+
+Welp, first trest tyring to get my dev environments set up. 
+
+lets see what happens
+
+Couple of ideas, 
+-txt based game (Writing)
+-dice (Technical)
+-card game (Technical, design)
+
+Text based game:
+Dungeon. Fight enemies. No visuals/music, just numbers.
+->Objects: Characters, stats, weapons, items, enemies, currency?, Magic, Quests, status effects
+->
+
+objects
+Characters
+-Classes
+--Charatcers
+--player
+--traders
+---shop keep (items)
+---bartender (tavern)
+--citizens
+---gaurd
+---townsfolk
+-Enemies
+--eneimeis
+---skeleton
+---brawler/robber/criminal
+---wolf
+
+items
+-weapons 
+--sword
+--bows?
+--axe
+--wand/staff
+--daggers
+-shield
+--small
+--big
+-potions
+--health
+--???magic??
+-clothing
+--torso
+--legs
+--boots
+--helmet
+
+status
+-Level
+--HP
+--Magic
+--Stats
+--Action Economy
+-stats
+--strength
+---power
+---athletics
+---health
+--agility(dex)
+---preception
+---evasiveness
+---???
+--inteligence
+---knowledge
+---magic
+---???
+--Charm
+---speech (perception/deception/bargin?)
+---lucky
+-health
+-Action Econemy?
+-Magic
+--fire
+--thunder
+--ice/water?
+--heal?
+
+status effects
+-magical
+--burn
+--stunned
+--poisoned
+--???
+-physical
+--bleed
+--broken limb
+--concusion
+
+environments
+-locations
+--town
+---tavern/inn
+----sleep
+----eat/drink
+----interaction NPCs (quests)
+---item shop
+--wilderness
+---road
+---forest
+--cave/Dungeon
+---rooms
+-world status
+--inticiative
+-rolls
+--dice roll radnmoization??
+-ratios
+--hit
+--miss
+--status effect chance
+
+actions
+-battle
+--attack
+---physical
+---magic
+--block
+---plus defense?
+--items
+---heal
+--escape
+-interaction (non-battle)
+--talk
+--action
+---open
+---pick lock
+---steal
+
+text
+-actions
+--battle
+-dialog
+--npc interactions
+
+quests
+-main
+-side
+
+
+
+
+Phase 1 - Basics/Battle
+-player and NPC interaction (Battle, enemy)
+-stats (HP)
+-weapons (swords)
+-actions (attack, items)
+
+Phase 2 - Dungeon Diving
+-locations (duengon. rooms)
+-stats (level, status effects?)
+-actions(action(open,pick lock,disarm))
+-clothing (armor,weapons,shilds)
+
+Phase 3 The Town
+-location (town)
+-NPCs(tavern, item shop)
+-Dialog(speech)
+
+Phase 4 Magic
+-Magic shit
+-locations (wilderness(forest))
+Phase 5 ???
